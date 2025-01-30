@@ -4,7 +4,7 @@
 This repository contains various machine learning projects, including data preprocessing, model training, and analysis. The current project focuses on **Mental Health Analysis** using survey data.
 
 ## Project: Mental Health Analysis
-- 📊 **Dataset**: `survey.csv`. I have used the dataset provided on this kaggle dataset: https://www.kaggle.com/code/trnguyen1510/ml-mental-health-in-tech-workplace
+- 📊 **Dataset**: `survey.csv`. I have used the dataset provided on this kaggle dataset: [https://www.kaggle.com/code/trnguyen1510/ml-mental-health-in-tech-workplace](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey/data?select=survey.csv)
 - 🧠 **Objective**: Analyze mental health patterns using machine learning models.
 - 🔍 **Tech Stack**: Python, Pandas, Scikit-Learn, Matplotlib.
 

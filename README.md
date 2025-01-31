@@ -18,7 +18,7 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/adityapatil484/Machine-Learning-Projects.git
+   git clone https://github.com/adityapatil484/Health-Data-Machine-Learning-Project.git
    ```
 2. Navigate to the project directory:
    ```sh

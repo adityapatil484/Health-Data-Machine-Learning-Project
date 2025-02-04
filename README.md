@@ -22,7 +22,7 @@ Ensure you have the following installed:
    ```
 2. Navigate to the project directory:
    ```sh
-   cd Machine-Learning-Projects
+   cd Mental-Health-Data-Machine-Learning-Project
    ```
 3. Install dependencies:
    ```sh

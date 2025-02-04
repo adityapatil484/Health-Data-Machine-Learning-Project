@@ -35,7 +35,7 @@ Ensure you have the following installed:
 
 ## Directory Structure
 ```
-Machine-Learning-Projects/
+Mental-Health-Data-Machine-Learning-Project/
 │-- Machine Learning Project - Mental Health.ipynb  # Jupyter notebook
 │-- survey.csv                                      # Dataset
 │-- README.md                                       # Project documentation
